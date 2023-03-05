@@ -2,7 +2,7 @@
 
 **Date**: 03/03/2023
 
-After a completing an assignment in my Java object-oriented programming class in which we had to write part of the program for the
+After completing an assignment in my Java object-oriented programming class in which we had to write part of the program for the
 Fifteen Puzzle game, I was motivated to complete this game all the way, with full real interaction, random board generator, GUI, and more. 
 
 In the assignment, I am also implemented the following classes: ArrayIterator, RangeIterator, and PrimeNumbersIterator. 
